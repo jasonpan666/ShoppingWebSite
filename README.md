@@ -1,5 +1,6 @@
 # ShoppingWebSite
 Spring and Hibernate based Shopping and Ordering System and Ads System <br />
+
 •Used Spring Framework to build a web application for users to shop and order items online and ads will be displayed <br />
 •Utilized Spring-AOP (Aspect Oriented Programming) and Inversion of Control & Dependency Injection <br />
 •Engineered Spring MVC to support DispatcherServlet, HandlerMapping, Controller, ModelAndView and ViewResolver <br />
